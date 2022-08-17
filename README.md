@@ -14,6 +14,24 @@
 
 ✈️ I love traveling too. I have been on personal visit to **Mauritius**, **Dubai**, **Abu Dhabi** and **North and South parts of India**. On Professiona font I have visited client to **Beijing, China** 
 
+🛠️ Skills
+--------------------------------------------
+
+## Languages ##
+
+![laravel](https://user-images.githubusercontent.com/75112086/185097639-7f6b318f-800d-45ff-b85b-86d81c8f2f6e.svg)
+![javascript](https://user-images.githubusercontent.com/75112086/185089624-91c65709-87fd-412c-bbea-9f4fda0264b9.svg)
+![react](https://user-images.githubusercontent.com/75112086/185093220-8bca2c14-8cfa-4302-8f15-c562135e3862.svg)
+![react_router](https://user-images.githubusercontent.com/75112086/185093225-f709e650-0c35-4218-b2b8-3e7245087eb1.svg)
+![redux](https://user-images.githubusercontent.com/75112086/185093229-360558ab-fcbb-438c-a8cc-e6c3295c0c4b.svg)
+
+![bootstrap](https://user-images.githubusercontent.com/75112086/185099776-75cd5a30-eec0-4449-9d04-1df46612c198.svg)
+![css3](https://user-images.githubusercontent.com/75112086/185099781-f92290a5-a7da-4339-99c2-829755655a8d.svg)
+![html5](https://user-images.githubusercontent.com/75112086/185099782-a2db06d7-e4d4-446e-b638-13c334a17dc6.svg)
+![jquery](https://user-images.githubusercontent.com/75112086/185099845-4f7bc7df-0881-48b8-9f37-90b7d6c291cf.svg)
+
+
+
 🏅 Achievements
 ------------------------------------------------------------
 
@@ -26,6 +44,7 @@
 📈 Stats
 ----------------------------------
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krunal1517&theme=dark)](https://git.io/streak-stats)
+
 
 <!--
 **krunal1517/krunal1517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
