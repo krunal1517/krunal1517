@@ -8,7 +8,7 @@
 
 👨‍💻 I have worked in various domains and enjoy coding and learning about the business. I am really enthusiastic about learning new technology. In 2021 I focused over cloud services and cleared Oracle certification for cloud developer and architect. 
 
-🎸 Outside the world of tech, I like to spend time with my family (specially with my toddler). My hobbies are reading, swimming, and travelling.
+🎸 Outside the world of tech, I like to spend time with my family (specially with my toddler). My hobbies are reading, and travelling. I also like to do swimming. 
 
 📚 I love reading books on personal development & auto biography. My favorite ones are **Steve Jobs** by **Walter Isaacson** and **Rich Dad Poor Dad** by **Robert Kiyosaki**.
 
